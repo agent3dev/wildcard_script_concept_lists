@@ -1,0 +1,30 @@
+architect
+auto mechanic
+baker
+bank teller
+bricklayer
+stone mason
+broker
+real estate agent
+bus driver
+computer programer
+cook
+chef
+doctor
+physician
+employee, white-collar worker
+employee, blue-collar worker
+IT worker
+joiner
+cabinetmaker
+journalist
+musician
+nurse
+photographer
+secretary
+student
+taxi driver
+teacher
+truck driver
+waitress
+laborer
